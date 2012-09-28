@@ -12,7 +12,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         
         System.out.println("********");
-        System.out.println();       
+
+        System.out.println("!!!!!!!!");
     }
 
     @Override
